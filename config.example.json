@@ -1,0 +1,6 @@
+{
+  "api_key": "YOUR_ACOUSTID_API_KEY_HERE",
+  "rate_limit_delay": 0.5,
+  "confidence_threshold": 0.5,
+  "fpcalc_path": "fpcalc"
+}

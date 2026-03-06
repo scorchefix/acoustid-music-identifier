@@ -1,0 +1,9 @@
+# Python dependencies
+# Note: No external Python packages required - uses stdlib only!
+# However, you need the chromaprint (fpcalc) binary installed on your system
+
+# System requirements (install via package manager):
+# - Debian/Ubuntu: sudo apt-get install libchromaprint-tools
+# - Fedora/RHEL: sudo dnf install chromaprint-tools
+# - macOS: brew install chromaprint
+# - Windows: Download from https://acoustid.org/chromaprint
